@@ -1,5 +1,10 @@
 # COVID-Project
 
+This repository showcases the SQL data preparation (using SSMS) behind my personal Tableau dashboarding project. The purpose of this project is to demonstrate my SQL and Tableau abilities.
+
+![Dashboard 1](https://user-images.githubusercontent.com/124431863/221358333-e9e61b1c-9ed1-4a80-918e-5a710e3e8cb8.png)
+
+
 Project Title: Analysis of COVID-19 Deaths and Vaccination Data
 
 Project Description:
